@@ -13,7 +13,7 @@ pipeline {
         DEV_PROJECT = "diogo-honorato-movies-dev"
         STAGE_PROJECT = "diogo-honorato-movies-stage"
         APP_GIT_URL = "https://github.com/honoratod/DO288-apps"
-        NEXUS_SERVER = "nexus-common.apps.na45.prod.nextcle.com/repository/java"
+        NEXUS_SERVER = "http://nexus-common.apps.na45.prod.nextcle.com/repository/java"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "movies"
